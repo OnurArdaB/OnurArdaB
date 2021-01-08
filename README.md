@@ -8,7 +8,7 @@
 <a href="https://open.spotify.com/user/11161118585?si=ua_7zwqjTvKPxmrd-P-kDA">
   <img align="left" alt="My Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://open.spotify.com/user/11161118585?si=ua_7zwqjTvKPxmrd-P-kDA">
+<a href="https://www.instagram.com/ardafalan.pdf/">
   <img align="left" alt="My Instagram" width="22px" src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-24x24.png?raw=true" />
 </a>
 
@@ -45,4 +45,3 @@ Hi, I'm Onur Arda Bodur, a Machine Learning and Computer Vision enthusiast which
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-```
