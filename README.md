@@ -29,6 +29,8 @@ Hi, I'm Onur Arda Bodur, a Machine Learning and Computer Vision enthusiast which
 - Love building web applications with Django and Node.js on the back.
 - Currently, i am trying to learn React.js in order to build some more cooler dApps.
 
+## Stats
+https://github-readme-stats.vercel.app/api/top-langs/?username=onurardab&layout=compact&hide=jupyter%20notebook
 ## Languages & Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
