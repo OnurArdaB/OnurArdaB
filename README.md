@@ -30,7 +30,7 @@ Hi, I'm Onur Arda Bodur, a Machine Learning and Computer Vision enthusiast which
 - Currently, i am trying to learn React.js in order to build some more cooler dApps.
 
 ## Stats
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=onurardab&layout=compact&hide=jupyter%20notebook](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurardab&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages & Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
