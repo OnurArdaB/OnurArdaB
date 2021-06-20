@@ -19,15 +19,13 @@ Hi, I'm Onur Arda Bodur, a Machine Learning and Computer Vision enthusiast which
 
 # About Me
 - Computer Science & Engineering, Sabancı University
-- 💽 Vinyls are pure happiness.
 - 🎸 I love playing guitar. 
 
 ## More Personal Stuff
 
 - I am currently studying NLP on turkish language with different deep learning methods.
-- Heavily working on Convolutional Neural Networks.
+- Heavily working on Convolutional Neural Networks for Computer Vision topics.
 - Love building web applications with Django and Node.js on the back.
-- Currently, i am trying to learn React.js in order to build some more cooler dApps.
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurardab&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
